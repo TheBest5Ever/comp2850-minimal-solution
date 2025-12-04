@@ -129,9 +129,9 @@ Before starting, I will ask:
 - [ yes] Do you consent to participate?
 
 **Verbal consent is sufficient** for this low-risk activity. If you say "yes", I'll note:
-- Date/time: [04-12-2025  07:15]
+- Date/time: [04-12-2025  09:35]
 - Pseudonym assigned: ["Participant A"]
-- Consent confirmed: [J.B]
+- Consent confirmed: [C.M]
 
 ---
 
