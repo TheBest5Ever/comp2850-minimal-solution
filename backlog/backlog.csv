@@ -1,0 +1,6 @@
+id,title,story_ref,story_type,need,type,severity,inclusion_risk,evidence,notes,candidate_fix
+1,Add task too many steps,stories.md#JobStory1,Job story,Quick capture,Usability,Medium,"Cognitive,Motor","ParticipantA notes; Participant A interview","Participant avoids task tools if adding items feels slow or effortful; current add form has multiple steps and fields, increasing workload.",true
+2,Controls unclear and cluttered,stories.md#JobStory2,Job story,Simple layout,Accessibility,High,"Cognitive,Low vision,SR","ParticipantA notes; Participant A interview","Participant needs a simple, clean UI; current interface has several similar buttons and icons, and some are not clearly labelled for screen reader users.",false
+3,Risk of accidental task loss,stories.md#Jobstory3,Job story,Reliability,Accessibility,High,"Cognitive","ParticipantB notes; Participant B interview","No undo or trash for deleted tasks; anxious users worry tasks may be lost by mistake and may avoid using delete or the app entirely.",true
+4,Manual rollover of unfinished tasks,stories.md#Jobstory4,Job story,Automation,Usability,Medium,"Cognitive,Motor","ParticipantB notes; Participant B interview","User wants unfinished tasks to move automatically to the next day; manual copying of recurring tasks is tiring and error-prone over long-term use.",false
+

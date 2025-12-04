@@ -7,6 +7,7 @@
 **Evidence**:Participant A
 **Inclusion risk**: stress/fatigue, motor impairment, memory problems
 **Type**: Job story
+**WCAG**: WCAG 3.3.2 labels and instuctions(A)
 
 ## Job story 2
 **Situation**:When I am managing or updating my tasks in the interface
@@ -16,9 +17,8 @@
 
 **Evidence**:Participant A
 **Inclusion Risk**:not tech savvy users, screen reader users, low-vision users 
-**Type**:
-Job story
-
+**Type**: Job story
+**WCAG**: WCAG 2.1.1 keyboard accessible (A)
 
 ## Job story 3 
 **Situation**: When I am keeping track of my tasks across the day
@@ -29,6 +29,7 @@ Job story
 **Evidence**: Participant B 
 **Inclusion Risk**: memory impairment, anxiety disorders, low digital proficiency
 **Type**: Job story 
+**WCAG**: WCAG 3.3.1 error identification (A)
 
 ## Job story 4
 **Situation**:When I still have unfinished tasks at the end of the day
@@ -39,3 +40,4 @@ Job story
 **Evidence**: Participant B 
 **Inclusion Risk**: long-term use, motor fatigue, users with a lot of recurring tasks
 **Type**: Job story 
+**WCAG**: WCAG 2.4.3 focus order(A)
