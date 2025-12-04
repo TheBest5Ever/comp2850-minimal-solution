@@ -37,5 +37,5 @@ Job story
 **Underlying Need**: because repetitive manual task management increases stress, work load and reduces the likelyhood of me doing it in the future
 
 **Evidence**: Participant B 
-**Inclusion Risk**: Cognitive load, ADHD, motor fatigue
+**Inclusion Risk**: long-term use, motor fatigue, users with a lot of recurring tasks
 **Type**: Job story 
