@@ -18,3 +18,24 @@
 **Inclusion Risk**:not tech savvy users, screen reader users, low-vision users 
 **Type**:
 Job story
+
+
+## Job story 3 
+**Situation**: When I am keeping track of my tasks across the day
+**Motivation**: I want to feel confident that my tasks will not be deleted or lost accidentally
+**Outcome**: so I can trust my to-do list and avoid the stress and worry of losing important tracking information
+**Underlying Need**: because reliability and data safety are imprtant for my peace of mind and allows me to use an app without worry
+
+**Evidence**: Participant B 
+**Inclusion Risk**: memory impairment, anxiety disorders, low digital proficiency
+**Type**: Job story 
+
+## Job story 4
+**Situation**:When I still have unfinished tasks at the end of the day
+**Motivation**: I want them to automatically roll over into the next day’s list
+**Outcome**:so I don’t have to manually re-enter or reorganise tasks, which becomes tiring over time
+**Underlying Need**: because repetitive manual task management increases stress, work load and reduces the likelyhood of me doing it in the future
+
+**Evidence**: Participant B 
+**Inclusion Risk**: Cognitive load, ADHD, motor fatigue
+**Type**: Job story 
