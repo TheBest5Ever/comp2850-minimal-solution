@@ -1,3 +1,10 @@
+<style>
+  #task-list .task-title {
+      font-size: 24px !important;
+      line-height: 2 !important;
+  }
+</style>
+
 <ul id="task-list" aria-describedby="result-count">
   {% for task in page.items %}
     {% include "tasks/_item.peb" with {"task": task} %}

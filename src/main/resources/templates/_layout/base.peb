@@ -54,6 +54,13 @@
     button {
       color: white !important; /* White text on blue background for better contrast */
     }
+    button:focus {
+        outline: 2px solid #ff0000;
+        outline-offset: 2px;        /* Red highlight around the button for WCAG 2.4.7*/
+        box-shadow: 0 0 0 3px rgba(255, 0, 0, 0.35);
+
+}
+
   </style>
 </head>
 <body>

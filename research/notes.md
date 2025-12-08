@@ -65,7 +65,7 @@
 **Date**: [4-12-2025  09:36]
 **Context**: [loves making lists, dark mode, moderate laptop use, young, in university, emotional]
 **Consent**: ✅ Confirmed verbally
-**Duration**: []
+**Duration**: [15 minutes]
 
 ### Q1: Last time you used a task manager or to-do list of any kind
 **Response**: "Everytime I have something to do or a task to complete I make a to do list. I use them for any and everything."

@@ -24,7 +24,7 @@
 **Situation**: When I am keeping track of my tasks across the day
 **Motivation**: I want to feel confident that my tasks will not be deleted or lost accidentally
 **Outcome**: so I can trust my to-do list and avoid the stress and worry of losing important tracking information
-**Underlying Need**: because reliability and data safety are imprtant for my peace of mind and allows me to use an app without worry
+**Underlying Need**: because reliability and data safety are important for my peace of mind and allows me to use an app without worry
 
 **Evidence**: Participant B 
 **Inclusion Risk**: memory impairment, anxiety disorders, low digital proficiency
